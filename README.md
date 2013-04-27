@@ -1,2 +1,3 @@
 docs
 ====
+A simple test.
